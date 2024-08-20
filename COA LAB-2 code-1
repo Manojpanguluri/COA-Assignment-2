@@ -1,3 +1,5 @@
+Assembly language program to perform addition of 8-bit data
+
 org 100h
 num1 db 21h
 num2 db 29h
